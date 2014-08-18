@@ -1,0 +1,11 @@
+{
+  "name": "teeProgram",
+  "version": "0.0.0",
+  "description": "A program that outputs user input to a file and to the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Fall",
+  "license": "MIT"
+}
